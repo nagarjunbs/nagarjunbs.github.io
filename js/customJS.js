@@ -1,5 +1,8 @@
 var myApp = angular.module('myApp',[]);
 
+myApp.controller('myCtrl', function($scope) {
+    $scope.name = "Nagarjun";
+});
 myApp.directive("personalInfo",function(){
 	function linker (scope, element, attr) {
 
