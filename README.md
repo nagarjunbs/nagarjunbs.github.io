@@ -1,2 +1,2 @@
 # nagarjunbs.github.io
-This is my online resume
+This is my online resume using angular and canvas.
